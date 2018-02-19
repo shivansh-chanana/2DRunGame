@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: 05fdd338e17c8db44abbcd1dc1c4bebc
+timeCreated: 1518707580
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Down_fire_0
+    21300002: Down_fire_1
+    21300004: Down_fire_2
+    21300006: Down_fire_3
+    21300008: Down_fire_5
+    21300010: Down_fire_6
+    21300012: Down_fire_7
+    21300014: Down_fire_8
+    21300016: Down_fire_9
+    21300018: Down_fire_10
+    21300020: Down_fire_11
+    21300022: Down_fire_12
+    21300024: Down_fire_13
+    21300026: Down_fire_14
+    21300028: Down_fire_15
+    21300030: Down_fire_16
+    21300032: Down_fire_17
+    21300034: Down_fire_18
+    21300036: Down_fire_19
+    21300038: Down_fire_20
+    21300040: Down_fire_22
+    21300042: Down_fire_24
+    21300044: Down_fire_25
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 800
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Down_fire_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 264
+        width: 272
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 119, y: -14.5}
+        - {x: 117, y: 35.5}
+        - {x: 60, y: 114.5}
+        - {x: -32, y: 114.5}
+        - {x: -136, y: 50.5}
+        - {x: -136, y: 24.5}
+        - {x: -132, y: 5.5}
+        - {x: -124, y: 2.5}
+        - {x: -108, y: 0.5}
+        - {x: -136, y: -0.5}
+        - {x: -136, y: -114.5}
+        - {x: 77, y: -114.5}
+        - {x: 136, y: -83.5}
+        - {x: 136, y: -3.5}
+        - {x: 125, y: 0.5}
+      - - {x: 112, y: -114.5}
+        - {x: 115, y: -113.5}
+        - {x: 115, y: -110.5}
+        - {x: 112, y: -109.5}
+        - {x: 110, y: -111.5}
+      - - {x: 112, y: 37.5}
+        - {x: 110, y: 35.5}
+        - {x: 110, y: 0.5}
+        - {x: 122, y: 0.5}
+        - {x: 127, y: 3.5}
+        - {x: 127, y: 29.5}
+        - {x: 121, y: 37.5}
+      - - {x: 94, y: 47.5}
+        - {x: 88, y: 47.5}
+        - {x: 82, y: 43.5}
+        - {x: 82, y: 33.5}
+        - {x: 85, y: 30.5}
+        - {x: 95, y: 30.5}
+        - {x: 98, y: 35.5}
+        - {x: 98, y: 43.5}
+      - - {x: -103, y: 88.5}
+        - {x: -103, y: 47.5}
+        - {x: -102, y: 42.5}
+        - {x: -87, y: 42.5}
+        - {x: -87, y: 77.5}
+        - {x: -90, y: 88.5}
+      - - {x: -109, y: 67.5}
+        - {x: -115, y: 67.5}
+        - {x: -116, y: 66.5}
+        - {x: -116, y: 50.5}
+        - {x: -111, y: 46.5}
+        - {x: -106, y: 46.5}
+        - {x: -105, y: 48.5}
+        - {x: -105, y: 65.5}
+      - - {x: 83, y: 87.5}
+        - {x: 81, y: 85.5}
+        - {x: 81, y: 77.5}
+        - {x: 84, y: 62.5}
+        - {x: 88, y: 55.5}
+        - {x: 96, y: 55.5}
+        - {x: 100, y: 56.5}
+        - {x: 100, y: 76.5}
+        - {x: 94, y: 87.5}
+      - - {x: -54, y: 106.5}
+        - {x: -58, y: 102.5}
+        - {x: -62, y: 90.5}
+        - {x: -62, y: 69.5}
+        - {x: -52, y: 69.5}
+        - {x: -41, y: 76.5}
+        - {x: -37, y: 91.5}
+        - {x: -37, y: 104.5}
+        - {x: -41, y: 106.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Down_fire_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 260
+        width: 272
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: -3.5}
+        - {x: -136, y: -12.5}
+        - {x: -134, y: -34.5}
+        - {x: -120, y: -51.5}
+        - {x: -129, y: -45.5}
+        - {x: -136, y: -46.5}
+        - {x: -136, y: -58.5}
+        - {x: -113, y: -94.5}
+        - {x: -80, y: -112.5}
+        - {x: 70, y: -112.5}
+        - {x: 126, y: -77.5}
+        - {x: 126, y: 58.5}
+        - {x: 114, y: 83.5}
+        - {x: 54, y: 112.5}
+        - {x: -46, y: 112.5}
+        - {x: -95, y: 84.5}
+      - - {x: 129, y: 0.5}
+        - {x: 121, y: 0.5}
+        - {x: 117, y: -0.5}
+        - {x: 117, y: -10.5}
+        - {x: 119, y: -15.5}
+        - {x: 123, y: -20.5}
+        - {x: 128, y: -20.5}
+        - {x: 133, y: -19.5}
+        - {x: 133, y: -6.5}
+        - {x: 130, y: -0.5}
+      - - {x: -123, y: 38.5}
+        - {x: -121, y: 36.5}
+        - {x: -113, y: 36.5}
+        - {x: -110, y: 37.5}
+        - {x: -110, y: 46.5}
+        - {x: -111, y: 48.5}
+        - {x: -114, y: 51.5}
+        - {x: -123, y: 51.5}
+      - - {x: -37, y: 67.5}
+        - {x: -38, y: 66.5}
+        - {x: -37, y: 66.5}
+      - - {x: 67, y: 86.5}
+        - {x: 65, y: 83.5}
+        - {x: 65, y: 76.5}
+        - {x: 74, y: 65.5}
+        - {x: 78, y: 65.5}
+        - {x: 82, y: 68.5}
+        - {x: 82, y: 80.5}
+        - {x: 72, y: 86.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Down_fire_3
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 261
+        width: 284
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 107.5}
+        - {x: -54, y: 107.5}
+        - {x: -126, y: 58.5}
+        - {x: -126, y: -106.5}
+        - {x: -115, y: -107.5}
+        - {x: 101, y: -107.5}
+        - {x: 121, y: -85.5}
+        - {x: 121, y: 26.5}
+        - {x: 93, y: 90.5}
+      - - {x: 118, y: -50.5}
+        - {x: 112, y: -52.5}
+        - {x: 112, y: -63.5}
+        - {x: 128, y: -63.5}
+        - {x: 130, y: -58.5}
+        - {x: 130, y: -50.5}
+      - - {x: -142, y: -40.5}
+        - {x: -139, y: -43.5}
+        - {x: -129, y: -43.5}
+        - {x: -126, y: -42.5}
+        - {x: -126, y: -32.5}
+        - {x: -127, y: -24.5}
+        - {x: -129, y: -23.5}
+        - {x: -141, y: -23.5}
+        - {x: -142, y: -26.5}
+      - - {x: 120, y: -11.5}
+        - {x: 122, y: -13.5}
+        - {x: 131, y: -13.5}
+        - {x: 140, y: -5.5}
+        - {x: 140, y: 17.5}
+        - {x: 130, y: 17.5}
+        - {x: 120, y: 6.5}
+      - - {x: -132, y: 45.5}
+        - {x: -138, y: 40.5}
+        - {x: -138, y: 27.5}
+        - {x: -136, y: 16.5}
+        - {x: -133, y: 14.5}
+        - {x: -124, y: 14.5}
+        - {x: -124, y: 45.5}
+      - - {x: -99, y: 75.5}
+        - {x: -102, y: 72.5}
+        - {x: -102, y: 53.5}
+        - {x: -96, y: 47.5}
+        - {x: -88, y: 47.5}
+        - {x: -85, y: 48.5}
+        - {x: -84, y: 51.5}
+        - {x: -84, y: 72.5}
+        - {x: -90, y: 75.5}
+      - - {x: 96, y: 67.5}
+        - {x: 96, y: 54.5}
+        - {x: 100, y: 50.5}
+        - {x: 103, y: 50.5}
+        - {x: 109, y: 54.5}
+        - {x: 109, y: 67.5}
+        - {x: 105, y: 71.5}
+        - {x: 100, y: 71.5}
+      - - {x: 41, y: 98.5}
+        - {x: 41, y: 79.5}
+        - {x: 46, y: 77.5}
+        - {x: 53, y: 77.5}
+        - {x: 55, y: 80.5}
+        - {x: 55, y: 96.5}
+        - {x: 52, y: 98.5}
+      - - {x: 10, y: 107.5}
+        - {x: 9, y: 106.5}
+        - {x: 7, y: 101.5}
+        - {x: 7, y: 90.5}
+        - {x: 11, y: 89.5}
+        - {x: 18, y: 89.5}
+        - {x: 21, y: 94.5}
+        - {x: 21, y: 107.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Down_fire_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 290
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: -45.5}
+        - {x: 107, y: -49.5}
+        - {x: 130, y: -2.5}
+        - {x: 130, y: 98.5}
+        - {x: 127, y: 98.5}
+        - {x: 65, y: 94.5}
+        - {x: 62, y: 89.5}
+        - {x: 18, y: 109.5}
+        - {x: 16, y: 111.5}
+        - {x: -83, y: 111.5}
+        - {x: -125, y: 63.5}
+        - {x: -125, y: -20.5}
+        - {x: -121, y: -22.5}
+        - {x: -109, y: -43.5}
+        - {x: -104, y: -48.5}
+        - {x: -113, y: -40.5}
+        - {x: -117, y: -40.5}
+        - {x: -125, y: -41.5}
+        - {x: -125, y: -63.5}
+        - {x: -124, y: -74.5}
+        - {x: -64, y: -115.5}
+        - {x: 76, y: -115.5}
+        - {x: 116, y: -84.5}
+        - {x: 122, y: -48.5}
+        - {x: 116, y: -45.5}
+      - - {x: -141, y: -31.5}
+        - {x: -139, y: -38.5}
+        - {x: -128, y: -38.5}
+        - {x: -123, y: -35.5}
+        - {x: -123, y: -21.5}
+        - {x: -126, y: -18.5}
+        - {x: -133, y: -18.5}
+        - {x: -141, y: -20.5}
+      - - {x: 126, y: -16.5}
+        - {x: 123, y: -20.5}
+        - {x: 123, y: -26.5}
+        - {x: 126, y: -29.5}
+        - {x: 133, y: -29.5}
+        - {x: 136, y: -28.5}
+        - {x: 136, y: -20.5}
+        - {x: 135, y: -16.5}
+      - - {x: -141, y: 10.5}
+        - {x: -145, y: 10.5}
+        - {x: -145, y: -5.5}
+        - {x: -142, y: -9.5}
+        - {x: -136, y: -9.5}
+        - {x: -133, y: -8.5}
+        - {x: -133, y: -1.5}
+        - {x: -137, y: 9.5}
+      - - {x: 135, y: 6.5}
+        - {x: 133, y: 3.5}
+        - {x: 133, y: -7.5}
+        - {x: 136, y: -8.5}
+        - {x: 142, y: -8.5}
+        - {x: 143, y: -5.5}
+        - {x: 143, y: 3.5}
+        - {x: 140, y: 6.5}
+      - - {x: -130, y: 29.5}
+        - {x: -122, y: 19.5}
+        - {x: -115, y: 19.5}
+        - {x: -112, y: 20.5}
+        - {x: -112, y: 35.5}
+        - {x: -124, y: 44.5}
+        - {x: -130, y: 44.5}
+      - - {x: 130, y: 51.5}
+        - {x: 124, y: 49.5}
+        - {x: 117, y: 40.5}
+        - {x: 117, y: 30.5}
+        - {x: 127, y: 30.5}
+        - {x: 137, y: 34.5}
+        - {x: 137, y: 49.5}
+        - {x: 135, y: 51.5}
+      - - {x: -110, y: 90.5}
+        - {x: -113, y: 89.5}
+        - {x: -113, y: 71.5}
+        - {x: -112, y: 67.5}
+        - {x: -102, y: 67.5}
+        - {x: -102, y: 90.5}
+      - - {x: 34, y: 102.5}
+        - {x: 31, y: 97.5}
+        - {x: 31, y: 84.5}
+        - {x: 33, y: 80.5}
+        - {x: 39, y: 80.5}
+        - {x: 45, y: 83.5}
+        - {x: 46, y: 87.5}
+        - {x: 46, y: 99.5}
+        - {x: 45, y: 102.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Down_fire_9
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 7
+        width: 252
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 100}
+        - {x: -50, y: 100}
+        - {x: -93, y: 69}
+        - {x: -94, y: 37}
+        - {x: -94, y: 29}
+        - {x: -96, y: 29}
+        - {x: -95, y: 31}
+        - {x: -94, y: 45}
+        - {x: -110, y: 52}
+        - {x: -115, y: 36}
+        - {x: -118, y: 15}
+        - {x: -119, y: 13}
+        - {x: -119, y: -73}
+        - {x: -72, y: -100}
+        - {x: 59, y: -100}
+        - {x: 110, y: -75}
+        - {x: 110, y: 43}
+        - {x: 81, y: 87}
+      - - {x: 114, y: -17}
+        - {x: 108, y: -26}
+        - {x: 108, y: -37}
+        - {x: 109, y: -39}
+        - {x: 121, y: -39}
+        - {x: 124, y: -33}
+        - {x: 124, y: -18}
+        - {x: 122, y: -17}
+      - - {x: -123, y: -13}
+        - {x: -124, y: -15}
+        - {x: -124, y: -29}
+        - {x: -113, y: -29}
+        - {x: -110, y: -28}
+        - {x: -110, y: -18}
+        - {x: -113, y: -13}
+      - - {x: 110, y: 24}
+        - {x: 103, y: 19}
+        - {x: 103, y: 8}
+        - {x: 105, y: 5}
+        - {x: 111, y: 5}
+        - {x: 116, y: 6}
+        - {x: 118, y: 9}
+        - {x: 118, y: 24}
+      - - {x: 99, y: 66}
+        - {x: 91, y: 66}
+        - {x: 88, y: 62}
+        - {x: 88, y: 46}
+        - {x: 90, y: 45}
+        - {x: 97, y: 45}
+        - {x: 99, y: 48}
+        - {x: 101, y: 56}
+        - {x: 101, y: 64}
+      - - {x: -67, y: 100}
+        - {x: -68, y: 98}
+        - {x: -69, y: 91}
+        - {x: -70, y: 85}
+        - {x: -70, y: 78}
+        - {x: -66, y: 76}
+        - {x: -60, y: 76}
+        - {x: -54, y: 91}
+        - {x: -54, y: 97}
+        - {x: -59, y: 100}
+      - - {x: 19, y: 100}
+        - {x: 19, y: 85}
+        - {x: 21, y: 82}
+        - {x: 31, y: 82}
+        - {x: 34, y: 83}
+        - {x: 34, y: 96}
+        - {x: 33, y: 100}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Down_fire_11
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 8
+        width: 288
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: -75}
+        - {x: -103, y: -118}
+        - {x: 114, y: -118}
+        - {x: 131, y: -113}
+        - {x: 131, y: 85}
+        - {x: 113, y: 118}
+        - {x: -58, y: 118}
+        - {x: -134, y: 63}
+      - - {x: -103, y: -95}
+        - {x: -114, y: -95}
+        - {x: -115, y: -99}
+        - {x: -115, y: -104}
+        - {x: -110, y: -112}
+        - {x: -93, y: -112}
+        - {x: -93, y: -102}
+        - {x: -96, y: -96}
+      - - {x: -137, y: -60}
+        - {x: -141, y: -60}
+        - {x: -144, y: -63}
+        - {x: -144, y: -68}
+        - {x: -139, y: -73}
+        - {x: -128, y: -83}
+        - {x: -120, y: -83}
+        - {x: -118, y: -79}
+        - {x: -118, y: -73}
+        - {x: -130, y: -62}
+      - - {x: 109, y: -59}
+        - {x: 102, y: -64}
+        - {x: 102, y: -69}
+        - {x: 103, y: -72}
+        - {x: 110, y: -72}
+        - {x: 111, y: -71}
+        - {x: 114, y: -67}
+        - {x: 115, y: -63}
+        - {x: 112, y: -59}
+      - - {x: -129, y: -14}
+        - {x: -138, y: -14}
+        - {x: -142, y: -16}
+        - {x: -142, y: -28}
+        - {x: -130, y: -34}
+        - {x: -118, y: -34}
+        - {x: -118, y: -23}
+        - {x: -124, y: -17}
+      - - {x: 139, y: -1}
+        - {x: 129, y: -12}
+        - {x: 129, y: -22}
+        - {x: 132, y: -23}
+        - {x: 140, y: -23}
+        - {x: 144, y: -17}
+        - {x: 144, y: -1}
+      - - {x: 115, y: 54}
+        - {x: 106, y: 54}
+        - {x: 98, y: 43}
+        - {x: 98, y: 32}
+        - {x: 99, y: 29}
+        - {x: 107, y: 29}
+        - {x: 108, y: 30}
+        - {x: 115, y: 35}
+        - {x: 117, y: 41}
+        - {x: 117, y: 53}
+      - - {x: -124, y: 67}
+        - {x: -127, y: 64}
+        - {x: -127, y: 60}
+        - {x: -122, y: 50}
+        - {x: -119, y: 45}
+        - {x: -110, y: 45}
+        - {x: -110, y: 57}
+        - {x: -117, y: 67}
+      - - {x: 57, y: 108}
+        - {x: 48, y: 92}
+        - {x: 48, y: 79}
+        - {x: 56, y: 79}
+        - {x: 64, y: 85}
+        - {x: 65, y: 87}
+        - {x: 65, y: 108}
+      - - {x: 33, y: 104}
+        - {x: 30, y: 100}
+        - {x: 30, y: 94}
+        - {x: 37, y: 87}
+        - {x: 44, y: 87}
+        - {x: 45, y: 90}
+        - {x: 45, y: 99}
+        - {x: 40, y: 104}
+      - - {x: -65, y: 106}
+        - {x: -70, y: 105}
+        - {x: -72, y: 101}
+        - {x: -72, y: 90}
+        - {x: -71, y: 88}
+        - {x: -63, y: 88}
+        - {x: -57, y: 97}
+        - {x: -57, y: 104}
+        - {x: -58, y: 106}
+      - - {x: -35, y: 110}
+        - {x: -35, y: 99}
+        - {x: -31, y: 96}
+        - {x: -23, y: 96}
+        - {x: -22, y: 99}
+        - {x: -22, y: 108}
+        - {x: -26, y: 110}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
